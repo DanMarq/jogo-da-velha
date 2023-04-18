@@ -12,4 +12,4 @@ E de quebra, coloquei um modo para alterar entre tema Claro e Escuro!
 
 ## Link para visualisar a página
 Como sempre eu uso o vercel para dá deploy nos meus códigos do github
-Segue abaixo o link para visualizar -> <a href="" target="_blank">Clique aqui</a>
+Segue abaixo o link para visualizar -> <a href="https://jogo-da-velha-psi-five.vercel.app/" target="_blank">Clique aqui</a>
